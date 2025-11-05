@@ -1,0 +1,31 @@
+University,Date Founded,Latitude,Longitude,Total Population,Undergrad Residential,Graduate Residential,Gender Split (M/F),Demographic Split,Total Employees
+Princeton University,1746,40.34,-74.66,8809,5200,400,50/50,"White:39,Asian:24,Hispanic:11,Black:8,Other:18",7359
+Stanford University,1885,37.43,-122.17,18442,7200,2000,49/51,"White:32,Asian:25,Hispanic:17,Black:7,Other:19",16991
+MIT,1861,42.36,-71.09,11920,3480,2950,52/48,"White:30,Asian:31,Hispanic:15,Black:6,Other:18",14350
+Yale University,1701,41.31,-72.93,14776,5500,800,49/51,"White:38,Asian:20,Hispanic:15,Black:8,Other:19",14607
+UC Berkeley,1868,37.87,-122.26,45699,9500,1500,46/54,"White:25,Asian:39,Hispanic:19,Black:2,Other:15",23375
+Columbia University,1754,40.81,-73.96,34782,5600,2000,47/53,"White:34,Asian:21,Hispanic:16,Black:8,Other:21",18609
+University of Pennsylvania,1740,39.95,-75.19,28201,6200,1200,46/54,"White:41,Asian:22,Hispanic:11,Black:8,Other:18",19447
+Harvard University,1636,42.37,-71.12,25697,6980,1500,49/51,"White:35,Asian:21,Hispanic:12,Black:8,Other:24",19739
+Rice University,1912,29.72,-95.4,8738,3300,500,51/49,"White:34,Asian:25,Hispanic:16,Black:7,Other:18",3305
+Cornell University,1865,42.45,-76.48,26284,7500,1000,48/52,"White:37,Asian:21,Hispanic:14,Black:7,Other:21",10626
+Northwestern University,1851,42.05,-87.67,23409,4000,800,47/53,"White:43,Asian:18,Hispanic:13,Black:7,Other:19",8485
+Johns Hopkins University,1876,39.33,-76.62,31275,2800,500,46/54,"White:39,Asian:24,Hispanic:15,Black:8,Other:14",27300
+UCLA,1919,34.07,-118.44,46676,15000,2000,43/57,"White:27,Asian:34,Hispanic:22,Black:3,Other:14",28621
+University of Chicago,1890,41.79,-87.59,18911,4200,1200,50/50,"White:36,Asian:21,Hispanic:15,Black:6,Other:22",10993
+Vanderbilt University,1873,36.14,-86.8,13710,6100,500,48/52,"White:41,Asian:17,Hispanic:11,Black:9,Other:22",9250
+Dartmouth College,1769,43.7,-72.29,6744,3900,300,50/50,"White:50,Asian:17,Hispanic:10,Black:6,Other:17",3473
+Williams College,1793,42.71,-73.2,2177,2000,0,49/51,"White:46,Asian:18,Hispanic:13,Black:6,Other:17",1223
+Brown University,1764,41.83,-71.4,11189,5200,600,48/52,"White:42,Asian:18,Hispanic:12,Black:7,Other:21",4827
+Claremont McKenna College,1946,34.1,-117.71,1386,1300,0,49/51,"White:39,Asian:16,Hispanic:15,Black:6,Other:24",614
+Duke University,1838,36.0,-78.94,18209,5600,1000,48/52,"White:42,Asian:21,Hispanic:11,Black:8,Other:18",15581
+UC San Diego,1960,32.88,-117.24,42968,11500,2000,48/52,"White:20,Asian:37,Hispanic:20,Black:2,Other:21",18566
+Caltech,1891,34.14,-118.13,2401,1000,800,54/46,"White:27,Asian:34,Hispanic:19,Black:2,Other:18",3842
+Wellesley College,1870,42.29,-71.31,2447,2300,0,0/100,"White:37,Asian:22,Hispanic:13,Black:6,Other:22",1099
+Amherst College,1821,42.37,-72.52,1898,1800,0,50/50,"White:42,Asian:17,Hispanic:15,Black:8,Other:18",858
+Bowdoin College,1794,43.91,-69.96,1951,1900,0,49/51,"White:57,Asian:11,Hispanic:12,Black:7,Other:13",915
+University of Florida,1853,29.65,-82.35,60489,10000,2000,44/56,"White:51,Asian:10,Hispanic:24,Black:6,Other:9",16567
+Swarthmore College,1864,39.9,-75.35,1625,1500,0,49/51,"White:42,Asian:17,Hispanic:13,Black:7,Other:21",785
+USC,1880,34.02,-118.28,47000,8500,2500,46/54,"White:31,Asian:24,Hispanic:16,Black:5,Other:24",23159
+"University of Michigan, Ann Arbor",1817,42.28,-83.74,52855,10500,2500,48/52,"White:53,Asian:17,Hispanic:8,Black:4,Other:18",31183
+Washington University in St. Louis,1853,38.65,-90.31,17350,7200,1000,47/53,"White:46,Asian:18,Hispanic:11,Black:8,Other:17",15135
